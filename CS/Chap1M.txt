@@ -1,0 +1,6 @@
+questions,answer,choice2,choice3,choice4
+What is the CPU referred as in a computer?,the brain,The hand,The eyes,The people
+What is the term for any additional processor used for a specialised task?,Co-processor,Microprocessor,Multi-core processor,Embedded processor
+GPU is initially used for what?,Rendering Graphics,Physics calculation for game engines,General-purpose floating-point operation,Machine learning and AI models
+What is the purpose of a co-processor?,To improve the overall speed of the computer by executing concurrently with the main CPU,To manage all input and output operations between the CPU and pripherals,To provide permanent storage for frequently used instructions,To act as a backup processor in case the main CPU fails
+what is the GPU used for nowadays?,To process many parallel streams of data at the same time,To execute a single instruction stream with very high clock speed,To provide high-speed and volatile storage for active data,To manage power distribution and thermal output for the entire system
