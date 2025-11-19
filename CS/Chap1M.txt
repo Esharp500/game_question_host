@@ -1,4 +1,4 @@
-questions,answer,choice2,choice3,choice4
+question,answer,choice2,choice3,choice4
 What is the CPU referred as in a computer?,the brain,The hand,The eyes,The people
 What is the term for any additional processor used for a specialised task?,Co-processor,Microprocessor,Multi-core processor,Embedded processor
 GPU is initially used for what?,Rendering Graphics,Physics calculation for game engines,General-purpose floating-point operation,Machine learning and AI models
